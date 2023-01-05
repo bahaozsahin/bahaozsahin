@@ -55,7 +55,3 @@
 [![Discord](https://img.shields.io/badge/Discord-738ADB.svg?logo=discord&logoColor=white)](https://discordapp.com/users/168452495801188352) 
 
 
-
-
-## Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
