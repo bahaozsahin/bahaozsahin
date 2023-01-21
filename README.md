@@ -50,7 +50,7 @@
 
 ###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bahaozsahin) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baha-ozsahin) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:bahaozsahin@gmail.com) 
 [![Discord](https://img.shields.io/badge/Discord-738ADB.svg?logo=discord&logoColor=white)](https://discordapp.com/users/168452495801188352) 
 
