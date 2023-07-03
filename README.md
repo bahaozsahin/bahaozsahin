@@ -37,6 +37,8 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) 
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=plastic&logo=Apache%20Spark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-%230781C2.svg?style=plastic&logo=Databricks&logoColor=white)
 
 ## Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 
