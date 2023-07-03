@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">My name is Baha and I'm a Data Scientist from Bursa, Turkey </p>
+<p align="left">My name is Baha and I'm a Data Scientist from Turkey </p>
 
 ###
 
@@ -15,7 +15,7 @@
 
 <p align="left">
 ✨ Creating bugs since 2017<br>
-📚 I'm currently learning Data Analysis with PowerBI and Tableau<br>
+//📚 I'm currently learning Data Analysis with PowerBI and Tableau<br>
 🎯 Goals: Be a successful data scientist and then teach others how to be one <br>
 
 ###
