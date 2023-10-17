@@ -16,7 +16,6 @@
 <p align="left">
 ✨ Creating bugs since 2017<br>
 <!-- 📚 I'm currently learning Data Analysis with PowerBI and Tableau<br> -->
-🎯 Goals: Be a successful data scientist and then teach others how to be one <br>
 
 ###
 
