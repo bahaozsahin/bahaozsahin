@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">My name is Baha and I'm a Data Scientist from Turkey </p>
+<p align="left">My name is Baha and I'm a Analytics Engineer from Turkey </p>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=Java&logoColor=white) 
+<!-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=Java&logoColor=white)  -->
 
 ## Frameworks and Libraries
 
